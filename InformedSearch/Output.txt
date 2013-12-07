@@ -1,0 +1,4 @@
+ A Star Search Path Cost: 812.0
+ A Star Search Path: Zerind->Arad->Sibiu->Rimnicu->Pitesti->Bucharest->Urziceni->Vaslui->Iasi
+ Greedy Best First Search Path Cost: 851.0
+ Greedy Best First Search Path: Zerind->Oradea->Sibiu->Fagaras->Bucharest->Urziceni->Vaslui->Iasi
